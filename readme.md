@@ -1,7 +1,7 @@
 # Workshop 4 for DB
 
-## How to work correctly with files
-> Instruction
+## How to make work correctly with files
+> Order of run
 - 1.create.sql
 - 2.populate.sql
 - 3.view.sql
