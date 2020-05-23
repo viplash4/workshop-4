@@ -1,4 +1,4 @@
---TODO: procedure need upgrade, how to call function
+
 SET SERVEROUTPUT ON
 -- procedure test
 DECLARE
